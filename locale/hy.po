@@ -166,7 +166,7 @@ msgstr ""
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp
 msgid "Script"
-msgstr ""
+msgstr "Սցենար"
 
 #. i18n-hint noun
 #: lib-src/mod-nyq-bench/NyqBench.cpp src/Benchmark.cpp
@@ -200,7 +200,7 @@ msgstr "Nyquist հրահանգ"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp
 msgid "Find dialog"
-msgstr ""
+msgstr "Որոնել զրուցարան"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp
 msgid "Harvey Lubin (logo)"
@@ -208,15 +208,15 @@ msgstr ""
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp
 msgid "Tango Icon Gallery (toolbar icons)"
-msgstr ""
+msgstr "Tango պատկերասրահ"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp
 msgid "Leland Lucius"
-msgstr ""
+msgstr "Լելանդ Լյուսիուս"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp
 msgid "(C) 2009 by Leland Lucius"
-msgstr ""
+msgstr "(C) 2009 Լելանդ Լյուսիուսի կողմից"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp
 msgid ""
@@ -235,7 +235,7 @@ msgstr "Սարքեր չեն գտնվել"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp
 msgid "Code has been modified. Are you sure?"
-msgstr ""
+msgstr "Կոդը փոխվել է: Ցանկանու՞մ եք"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp
 #, fuzzy
@@ -254,7 +254,7 @@ msgstr "Նոր"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp
 msgid "New script"
-msgstr ""
+msgstr "Նոր սցենար"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp
 #, fuzzy
@@ -264,7 +264,7 @@ msgstr "&Բացել..."
 #: lib-src/mod-nyq-bench/NyqBench.cpp
 #, fuzzy
 msgid "Open script"
-msgstr "Բացել նախկիններից"
+msgstr "Բացել սցենար"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp src/Benchmark.cpp
 #, fuzzy
@@ -284,7 +284,7 @@ msgstr "Պահպանել որպես..."
 #: lib-src/mod-nyq-bench/NyqBench.cpp
 #, fuzzy
 msgid "Save script as..."
-msgstr "Պահպանել պրոեկտը &որպես..."
+msgstr "Պահպանել սցենարը &որպես..."
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp src/toolbars/EditToolBar.cpp
 msgid "Copy"
@@ -324,7 +324,7 @@ msgstr "Մաքրել"
 #: lib-src/mod-nyq-bench/NyqBench.cpp
 #, fuzzy
 msgid "Clear selection"
-msgstr "Հավասարեցման նշում"
+msgstr "Մաքրել նշումները"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp src/menus/SelectMenus.cpp
 #, fuzzy
@@ -344,7 +344,7 @@ msgstr "Քայլ հետ"
 #: lib-src/mod-nyq-bench/NyqBench.cpp
 #, fuzzy
 msgid "Undo last change"
-msgstr "Ֆորմատի փոխում"
+msgstr "Հետարկել վերջին փոխությունը"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp src/toolbars/EditToolBar.cpp
 #: src/widgets/KeyView.cpp
@@ -353,11 +353,11 @@ msgstr "Քայլ առաջ"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp
 msgid "Redo previous change"
-msgstr ""
+msgstr "Առաջ "
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp
 msgid "Find"
-msgstr ""
+msgstr "Վերականգնել նախորդ փոփոխությունը"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp
 #, fuzzy
